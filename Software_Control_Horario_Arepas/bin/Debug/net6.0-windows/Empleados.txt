@@ -1,0 +1,4 @@
+1037597069,Luis García,Supervisor,01/15/2024,Sup123
+1007645728,Jota García,Domiciliario,01/01/2024,Dom123
+1018436843,Yenifer Guzmán,Operario,01/15/2024,Op123
+23444223,Marge Ricardo,Domiciliario,05/22/2024,Dom456
